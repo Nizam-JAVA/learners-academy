@@ -51,15 +51,3 @@ Once the application is running on a computer, you access the Academy using a we
 ## Database Diagram
 <p align="center"><img src="./images/pic7.JPG"/></p>
 
-## Contributions
-If you would like to contribute to this project , you are very welcome! You can fork it and later submit a pull request. 
-In case you need them, here are some guidelines: [Contributor Covenant](https://www.contributor-covenant.org/)
-# 🔗 Links
-### GitHub Repository
-[https://github.com/giannifontanot/ud-project1-hotelreservation/](https://github.com/giannifontanot/sl-project2-learners-academy/)
-### Support
-If you need help with this project, please write to: [gianni.fontanot@gmail.com](https://mailto:gianni.fontanot@gmail.com)
-### Authors
- - [@giannifontanot](https://www.github.com/giannifontanot)
- - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giannifontanot.github.io/portfolio/)
- - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianni-fontanot/)
